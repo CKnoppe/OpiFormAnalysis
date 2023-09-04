@@ -18,6 +18,6 @@ Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. *Computing in Scien
 
 The Manim Community Developers. (2023). Manim – Mathematical Animation Framework (Version v0.17.3) [Computer software]. https://www.manim.community/.
 
-Steinbacher, M., Steinbacher, M., Knoppe, C. (2023). Opinion dynamics with preference matching: How the desire to meet facilitates opinion exchange. *Computational Economics (accepted for publication)*.
+Steinbacher, M., Steinbacher, M., Knoppe, C. (2023). Opinion dynamics with preference matching: How the desire to meet facilitates opinion exchange. *Computational Economics*. https://doi.org/10.1007/s10614-023-10455-7.
 
 Waskom, M. (2021). Seaborn: statistical data visualization. *Journal of Open Source Software, 6*(60), 3021. https://doi.org/10.21105/joss.03021.
